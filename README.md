@@ -21,3 +21,10 @@ ALX Listing App is a web application designed to replicate the listing page func
    cd alx-listing-app
 
 The assests images will be downloaded
+
+git init
+git remote add origin https://github.com/d-madiou/alx-listing-app.git
+git add .
+git commit -m "Initial commit with correct files"
+git push -u origin main
+
